@@ -7,7 +7,7 @@ A Discord-based study companion chatbot that simplifies complex concepts, making
 This study investigates advanced prompting techniques to improve requirement analysis for a Discord-based educational chatbot powered by the llama3.2 model. The objective is to assess various prompting strategies and enhance the chatbot’s effectiveness in supporting student learning. Developing an AI-powered chatbot integrated into Discord to assist students in understanding advanced SQL and Python concepts by breaking them down into simpler, more digestible explanations. We analyze how different prompting strategies impact requirement structuring and explore optimizations to enhance AI-driven requirement analysis.
 
 * Authors: [Neha Mohana FNU(Z23791156), Smruthi Sharath Bejwadi (Z23809008), Tribhuvana Avvaru (Z23813291)]
-* GitHub REPO: https://github.com/NehaMohan59/Genesis_
+* GitHub REPO: [https://github.com/NehaMohan59/Genesis_](https://github.com/NehaMohan59/Genesis_)
 * Academic Supervisor: [Dr. Fernando Koch](http://www.fernandokoch.me)
 
   
